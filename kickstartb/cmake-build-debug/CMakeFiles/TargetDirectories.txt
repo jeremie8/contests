@@ -1,0 +1,3 @@
+C:/Users/jerem/Desktop/code/contest/kickstartb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jerem/Desktop/code/contest/kickstartb/cmake-build-debug/CMakeFiles/kickstartb.dir
+C:/Users/jerem/Desktop/code/contest/kickstartb/cmake-build-debug/CMakeFiles/edit_cache.dir

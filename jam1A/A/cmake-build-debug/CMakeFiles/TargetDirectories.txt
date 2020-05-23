@@ -1,0 +1,3 @@
+C:/Users/jerem/Desktop/code/contest/jam1A/A/cmake-build-debug/CMakeFiles/A.dir
+C:/Users/jerem/Desktop/code/contest/jam1A/A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jerem/Desktop/code/contest/jam1A/A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
