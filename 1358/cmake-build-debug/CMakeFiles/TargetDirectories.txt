@@ -1,0 +1,3 @@
+C:/Users/Jeremie/Desktop/code/contests/1358/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jeremie/Desktop/code/contests/1358/cmake-build-debug/CMakeFiles/1358.dir
+C:/Users/Jeremie/Desktop/code/contests/1358/cmake-build-debug/CMakeFiles/rebuild_cache.dir
